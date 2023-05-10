@@ -1,0 +1,17 @@
+{
+  "name": "guess-my-number",
+  "version": "1.0.0",
+  "description": "\"practice for small web app\"",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server --port=5000"
+  },
+  "keywords": [
+    "DOM"
+  ],
+  "author": "DarwinsCorn",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
